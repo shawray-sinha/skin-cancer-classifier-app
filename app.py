@@ -28,7 +28,7 @@ st.sidebar.write("""
 
 For detailed explanations, consult the dermatology reference materials.
 """)
-st.sidebar.markdown("[GitHub Repository](https://github.com/yourusername/skin-cancer-classifier)")
+st.sidebar.markdown("[GitHub Repository](https://github.com/shawray-sinha/skin-cancer-classifier-app)")
 
 
 st.title(" Skin Cancer Classifier")
